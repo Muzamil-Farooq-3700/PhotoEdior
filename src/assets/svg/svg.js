@@ -1,0 +1,1 @@
+export { default as Splashlogo } from './Splashlogo.svg'
